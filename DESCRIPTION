@@ -1,0 +1,11 @@
+Package: way
+Title: Say Something
+Version: 0.1.0
+Authors@R: c(
+  person("The", "Authors", , "some@email.org", c("aut", "cre"))
+  )
+Imports:
+    cowsay,
+    rmarkdown
+URL: https://github.com/sckott/way
+License: CC0
